@@ -8,4 +8,3 @@
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=ner0ox&show_icons=true&locale=en&layout=compact" alt="ner0ox" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=ner0ox&show_icons=true&locale=en" alt="ner0ox" /></p>
