@@ -1,5 +1,5 @@
 <h1 align="center">Yo 👋, I'm Nerox</h1>
-<h3 align="center">I just rewrite my code when something dosen't work</h3>
+<h3 align="center">why are you here</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ner0ox&label=Profile%20views&color=0e75b6&style=flat" alt="ner0ox" /> </p>
 
